@@ -1,3 +1,53 @@
+💪 BMI Calculator Website
+
+A simple, elegant BMI (Body Mass Index) calculator built using HTML, CSS, and JavaScript. Enter your weight (in kilograms) and height (in centimeters), and instantly find out your BMI.
+
+📸 Preview
+
+![image](https://github.com/user-attachments/assets/09b05ab0-7ea1-4b0c-85cd-05f2fec2f742)
+
+🚀 How to Use
+
+1.Clone the repository:
+
+git clone https://github.com/JoshnaJosh1234/bmi-calculator.git
+
+2.Navigate into the project folder:
+
+cd bmi-calculator
+
+3.Open index.html in your browser.
+
+✨ Features
+
+1.Clean and modern UI with a glassmorphism effect.
+
+2.Input validation for weight and height.
+
+3.Real-time BMI calculation.
+
+4.Responsive design.
+
+🧮 Formula Used
+
+BMI = weight (kg) / ( height (m) × height (m) )
+
+Note: Height is converted from centimeters to meters in the calculation.
+
+🛠️ Technologies Used
+
+HTML5
+
+CSS3
+
+JavaScript
+
+React JS
+
+👩‍💻 Author
+
+Your Name – @JoshnaJosh1234
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
